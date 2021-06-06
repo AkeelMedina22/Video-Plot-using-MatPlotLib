@@ -17,6 +17,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 <p align="center">
   <br />
-  <img src="![check](https://user-images.githubusercontent.com/56905673/120911254-2226cd00-c69f-11eb-99f2-7911254b5e6b.gif)" />
+  <img src="https://user-images.githubusercontent.com/56905673/120911254-2226cd00-c69f-11eb-99f2-7911254b5e6b.gif" />
 </p>
 
