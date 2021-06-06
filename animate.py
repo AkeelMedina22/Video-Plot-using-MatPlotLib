@@ -33,10 +33,11 @@ def animate(i):
     for component in zip(contours, hierarchy):
         currentContour = component[0].tolist()
         currentHierarchy = component[1].tolist()
-        if currentHierarchy[0] >= 10:
-            for i in currentContour:
-                for j in i:
-                    lst.append(j)
+        # Un-Comment this line if the borders are being detected
+        #if currentHierarchy[0] >= 5:
+        for i in currentContour:
+            for j in i:
+                lst.append(j)
     arrx = [i[0] for i in lst]
     arry = [-i[1] for i in lst]
     arr = [(x, y) for x, y in zip(arrx, arry)]
