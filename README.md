@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Re-Using my previous code to plot an image in Desmos using Moore's Neighbourhood Boundary Tracing to get the contours, I instead used the OpenCV contour tracing to plot the contours of each frame from a video, using MatPlotLib's FuncAnimation. It works pretty nicely and an example result is attached below for a few seconds of the intro to Bakemonogatari.
+Re-Using my previous code to plot an image in Desmos, I used OpenCV contour tracing to plot the coordinates of contours of each frame from a video, using MatPlotLib's FuncAnimation. It works pretty nicely and an example result is attached below for a few seconds of the intro to Bakemonogatari.
 
 ### Built With
 
